@@ -29,7 +29,7 @@ Controls:
 
 Compilation:
 ============
-Tested with MinGW and Microsoft Visual C++ but hopefully works with others
+Tested with MinGW, Microsoft Visual C++, and g++ but hopefully works with others
 Requires GLUT or FreeGLUT (and of course OpenGL)
 
 http://freeglut.sourceforge.net
